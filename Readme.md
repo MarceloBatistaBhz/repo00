@@ -1,5 +1,5 @@
 # Observações GIT e GITHUB
-**comandos básicos Daxus**  
+**comandos básicos Daxus com Git Bash**  
   
 git init  
 git add 'file'  (ou git add . )
@@ -12,6 +12,7 @@ git remote add origin linkRemoto (https://github.com/MarceloBatistaBhz/repo00.gi
 git push -u origin main  
 git checkout -b 'new_branch'  (-b = --branch. Cria nova branch)  
 git checkou main (vai para a branch main)  
+arquivo .gitignore (qdo for pasta, terminar com /)  
 
 
 
