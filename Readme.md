@@ -10,6 +10,8 @@ git config --global user.name 'MarceloBatistaBhz' (o mesmo do github)
 git branch -M main  
 git remote add origin linkRemoto (https://github.com/MarceloBatistaBhz/repo00.git)  
 git push -u origin main  
-git checkout -b 'new_branch'  
+git checkout -b 'new_branch'  (-b = --branch. Cria nova branch)  
+git checkou main (vai para a branch main)  
+
 
 
